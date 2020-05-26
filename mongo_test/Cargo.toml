@@ -1,8 +1,8 @@
 [package]
-name = "guessing_game"
+name = "mongo_test"
 version = "0.1.0"
 authors = [""]
 
 [dependencies]
-
-rand="0.3.0"
+mongodb = "0.3.11"
+rand = "0.7"
